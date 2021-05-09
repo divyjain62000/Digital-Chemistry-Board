@@ -10,4 +10,4 @@ Work on multiple pages simultaneously.
 User can import an image & can draw over it.
 Resize or move any component or group of components simultaneously.
 To make things beautiful you can choose color & customize them.
-Save/Open your work in the form of file with extension as "pnt".
+Save/Open your work in the form of file with extension as "chbd".
