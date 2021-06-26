@@ -11,3 +11,7 @@ User can import an image & can draw over it.
 Resize or move any component or group of components simultaneously.
 To make things beautiful you can choose color & customize them.
 Save/Open your work in the form of file with extension as "chbd".
+
+https://user-images.githubusercontent.com/82946769/123514954-197c5200-d6b3-11eb-8e3d-1bdca4fbc1d9.mp4
+
+
