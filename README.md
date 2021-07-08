@@ -18,9 +18,9 @@ Features that application has been:-
 11) Color palette is also available so by choosing color he or she can create components of different colors.
 12) User can also import image 
 13) There is three background available for board
-Plain background
-Grid background
-And the background of the notebook
+* Plain background
+* Grid background
+* And the background of the notebook
 14) User can also able to give a name to a component that he/she has created.
 15) User can also set the width of a component before creating it.
 16) There is also a feature of recording so the user can record its screen with voice if he or she wants.
