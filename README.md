@@ -1,5 +1,5 @@
 # Digital-Chemistry-Board
-Digital-Chemistry-Board is a digital board for chemistry teachers.Using this teacher can teach chemistry in simple and professional manner.User can use the chemistry symbols and other chemistry tools present in board to teach chemistry in simple manner.
+Digital-Chemistry-Board is a digital board for chemistry teachers. Using this teacher can teach chemistry in a simple and professional manner. User can use the chemistry symbols and other chemistry tools present on board to teach chemistry in a simple manner.
 
 ### Note: I suggest you to go through the video which is at the end of documentation after reading features so it will be easy to understand the functionality of the application.
 
